@@ -1,4 +1,4 @@
-# Federico Gamberini
+# <img src="g-icon.svg" height="32" alt=""> Federico Gamberini
 
 Laurea in Economia, tesi in data science. Bologna.
 
